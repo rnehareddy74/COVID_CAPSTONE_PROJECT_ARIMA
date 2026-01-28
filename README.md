@@ -1,0 +1,2 @@
+# COVID_CAPSTONE_PROJECT_ARIMA
+COVID-19 Time Series Forecasting using ARIMA
